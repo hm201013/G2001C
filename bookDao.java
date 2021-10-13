@@ -1,5 +1,5 @@
 public class bookDao{
 	public Integer addBook(Integer a,Integer b){
-		return a+b;
+		return a+a+b;
 	}
 }
